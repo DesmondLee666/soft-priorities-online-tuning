@@ -1,4 +1,4 @@
-  Real-time tuning soft task priorities with quadratic programming.
+  ##Real-time tuning soft task priorities with quadratic programming.
 
   Abstract— When robot simultaneously executes multiple
 tasks with potential incompatibilities, in order to realize objectives and satisfy constraints, how to assign appropriate
